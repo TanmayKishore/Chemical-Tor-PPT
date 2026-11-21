@@ -1,0 +1,26 @@
+{
+  "_about": "Where each upload in activity_data.json is found in the sample deck (AGENDA NO. 01_SIA_GJ_IND3_533803_2025_VRUNDAVAN POLYMER INDUSTRIES-F.pptx): slide number and picture shape name. scripts/local_db.py import-sample-documents copies these pictures into the local database's bucket. The scans carry personal data: they go into the git-ignored local database only, never into the repository.",
+  "documents": {
+    "chemical/vrundavan/nabet_certificate.png": {"slide": 2, "shape": "Picture 2"},
+    "chemical/vrundavan/undertaking_letterhead.png": {"slide": 6, "shape": "Picture 5"},
+    "chemical/vrundavan/msihc_1.png": {"slide": 8, "shape": "Picture 5"},
+    "chemical/vrundavan/msihc_2.png": {"slide": 8, "shape": "Picture 6"},
+    "chemical/vrundavan/msihc_3.png": {"slide": 8, "shape": "Picture 12"},
+    "chemical/vrundavan/location_map.png": {"slide": 12, "shape": "Picture 5"},
+    "chemical/vrundavan/kml_map.png": {"slide": 13, "shape": "Picture 5"},
+    "chemical/vrundavan/land_a_1.png": {"slide": 14, "shape": "Picture 3"},
+    "chemical/vrundavan/land_a_2.png": {"slide": 14, "shape": "Picture 6"},
+    "chemical/vrundavan/land_b_1.png": {"slide": 15, "shape": "Picture 3"},
+    "chemical/vrundavan/land_b_2.png": {"slide": 15, "shape": "Picture 4"},
+    "chemical/vrundavan/land_b_3.png": {"slide": 15, "shape": "Picture 5"},
+    "chemical/vrundavan/land_c_1.png": {"slide": 16, "shape": "Picture 2"},
+    "chemical/vrundavan/land_c_2.png": {"slide": 16, "shape": "Picture 3"},
+    "chemical/vrundavan/land_c_3.png": {"slide": 16, "shape": "Picture 6"},
+    "chemical/vrundavan/land_d_1.png": {"slide": 17, "shape": "Picture 3"},
+    "chemical/vrundavan/land_d_2.png": {"slide": 17, "shape": "Picture 4"},
+    "chemical/vrundavan/land_d_3.png": {"slide": 17, "shape": "Picture 5"},
+    "chemical/vrundavan/site_layout.png": {"slide": 19, "shape": "Picture 9"},
+    "chemical/vrundavan/water_balance.png": {"slide": 24, "shape": "Picture 6"},
+    "chemical/vrundavan/fire_station_map.png": {"slide": 35, "shape": "Picture 6"}
+  }
+}

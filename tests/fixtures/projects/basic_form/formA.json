@@ -1,0 +1,296 @@
+{
+ "form_type": "formA",
+ "form_data": {
+  "project_activity_details": {
+   "index": 14,
+   "label": "Project/Activity Details",
+   "fields": [
+    {
+     "variable": "projectName",
+     "label": "Name of the project proposal",
+     "value": "Proposed expansion by addition of Synthetic Organic Chemicals (Ceramic Binder) in existing Inorganic Chemicals manufacturing unit"
+    },
+    {
+     "variable": "projectProposal",
+     "label": "Type of Proposal",
+     "value": "Expansion"
+    },
+    {
+     "variable": "itemNoEIA",
+     "label": "Item number as per EIA Notification",
+     "value": "5(f) Synthetic Organic Chemicals Industry"
+    },
+    {
+     "variable": "capacity",
+     "label": "Capacity",
+     "value": "Ceramic Binder 600 MT/Month"
+    }
+   ]
+  },
+  "protected_areas": {
+   "index": 16,
+   "label": "Protected Areas",
+   "fields": [
+    {
+     "variable": "nameOfWildlifeProtectedArea",
+     "label": "Name of the protected area",
+     "value": "Rampara Wildlife Sanctuary"
+    },
+    {
+     "variable": "shortestDistanceWildlifeProtectedArea",
+     "label": "Shortest distance (km)",
+     "value": 38.67
+    },
+    {
+     "variable": "wildlifeRemarks",
+     "label": "Remarks",
+     "value": "Rampara Wildlife Sanctuary - 38.67 km S; Little Rann of Kutch - 76.97 km NE; Khijadiya Bird Sanctuary - 84.89 km WSW; Hingolgadh forest - 91.13 km ESE"
+    }
+   ]
+  },
+  "severely_polluted_areas": {
+   "index": 17,
+   "label": "Severely Polluted Areas",
+   "fields": [
+    {
+     "variable": "nameOfSeverelyPollutedArea",
+     "label": "Name of the severely polluted area",
+     "value": null
+    },
+    {
+     "variable": "shortestDistanceSeverelyPollutedArea",
+     "label": "Shortest distance (km)",
+     "value": null
+    }
+   ]
+  },
+  "critically_polluted_areas": {
+   "index": 18,
+   "label": "Critically Polluted Areas",
+   "fields": [
+    {
+     "variable": "nameOfCriticallyPollutedArea",
+     "label": "Name of the critically polluted area",
+     "value": "GIDC Aji"
+    },
+    {
+     "variable": "shortestDistanceCriticallyPollutedArea",
+     "label": "Shortest distance (km)",
+     "value": 66.18
+    },
+    {
+     "variable": "remarksCriticallyPollutedArea",
+     "label": "Remarks",
+     "value": "GIDC Aji - 66.18 km S"
+    }
+   ]
+  },
+  "notified_eco_sensitive_areas": {
+   "index": 19,
+   "label": "Notified Eco-sensitive Areas",
+   "fields": [
+    {
+     "variable": "nameOfNotifiedESA",
+     "label": "Name of the notified eco-sensitive area",
+     "value": "Rampara Wildlife Sanctuary"
+    },
+    {
+     "variable": "shortestDistanceNotifiedESA",
+     "label": "Shortest distance (km)",
+     "value": 38.67
+    },
+    {
+     "variable": "remarksNotifiedESA",
+     "label": "Remarks",
+     "value": "Rampara Wildlife Sanctuary - 38.67 km S; Little Rann of Kutch - 76.97 km NE; Khijadiya Bird Sanctuary - 84.89 km WSW; Hingolgadh forest - 91.13 km ESE"
+    }
+   ]
+  },
+  "boundaries": {
+   "index": 20,
+   "label": "Inter-state / International Boundaries",
+   "fields": [
+    {
+     "variable": "nameOfBorder",
+     "label": "Name of the boundary",
+     "value": "India-Pakistan Boundary near Kasbo"
+    },
+    {
+     "variable": "shortestDistanceBorder",
+     "label": "Shortest distance (km)",
+     "value": 150
+    },
+    {
+     "variable": "remarksBorder",
+     "label": "Remarks",
+     "value": "India-Pakistan Boundary near Kasbo - 150 km N; Gujarat-Rajasthan Boundary near Joradar - 198.90 km N"
+    }
+   ]
+  },
+  "forest_land_proximity": {
+   "index": 22,
+   "label": "Forest Land Proximity",
+   "fields": [
+    {
+     "variable": "forestProximity",
+     "label": "Whether forest land lies within 10 km",
+     "value": false
+    },
+    {
+     "variable": "remarksForest",
+     "label": "Remarks",
+     "value": "None within 10 km radius of the project site"
+    }
+   ]
+  },
+  "category_and_appraisal": {
+   "index": 23,
+   "label": "Project Category and Appraisal",
+   "fields": [
+    {
+     "variable": "projectCategory",
+     "label": "Project Category (A/B1/B2)",
+     "value": "B1"
+    }
+   ]
+  },
+  "earlier_clearances": {
+   "index": 27,
+   "label": "Details of Earlier Clearances",
+   "fields": [
+    {
+     "variable": "priorEC",
+     "label": "Whether EC was obtained for the existing project",
+     "value": false
+    },
+    {
+     "variable": "ecProposalNo",
+     "label": "EC proposal / letter number",
+     "value": null
+    },
+    {
+     "variable": "ecProposalDate",
+     "label": "EC date",
+     "value": null
+    },
+    {
+     "variable": "ctoReferenceNumber",
+     "label": "Consent to Operate reference number",
+     "value": "AWH-141216"
+    },
+    {
+     "variable": "ctoDateOfIssue",
+     "label": "Date of issue",
+     "value": "27/03/2025"
+    },
+    {
+     "variable": "ctoValidity",
+     "label": "Valid up to",
+     "value": "18/02/2030"
+    }
+   ]
+  },
+  "notified_industrial_area": {
+   "index": 28,
+   "label": "Notified Industrial Area",
+   "fields": [
+    {
+     "variable": "locatedInIndustrialArea",
+     "label": "Whether located in a notified industrial area",
+     "value": false
+    },
+    {
+     "variable": "nameOfIndustrialArea",
+     "label": "Name of the industrial area",
+     "value": null
+    }
+   ]
+  },
+  "products_and_by_products": {
+   "index": 33,
+   "label": "Details of Products & By-products",
+   "fields": [
+    {
+     "variable": "productDetails",
+     "type": "table",
+     "label": "Products and by-products",
+     "value": [
+      {
+       "productName": "Sodium Tri Poly Phosphate",
+       "productOrByProduct": "Product",
+       "existingQuantity": 150,
+       "proposedQuantity": 0,
+       "totalQuantity": 150,
+       "unit": "MT/Month",
+       "casNo": "7758-29-4",
+       "endUse": "Ceramic Industries",
+       "ecApplicable": false,
+       "productClass": "Inorganic"
+      },
+      {
+       "productName": "Fixative",
+       "productOrByProduct": "Product",
+       "existingQuantity": 50,
+       "proposedQuantity": 0,
+       "totalQuantity": 50,
+       "unit": "MT/Month",
+       "casNo": null,
+       "endUse": null,
+       "ecApplicable": false,
+       "productClass": "Inorganic"
+      },
+      {
+       "productName": "Ceramic Binder",
+       "productOrByProduct": "Product",
+       "existingQuantity": 0,
+       "proposedQuantity": 600,
+       "totalQuantity": 600,
+       "unit": "MT/Month",
+       "casNo": "9004-32-4",
+       "endUse": "Ceramic Industries",
+       "ecApplicable": true,
+       "productClass": "Organic"
+      }
+     ]
+    }
+   ]
+  },
+  "eia_consultant": {
+   "index": 36,
+   "label": "EIA Consultant",
+   "fields": [
+    {
+     "variable": "eiaConsultantEngaged",
+     "label": "Whether an EIA consultant is engaged",
+     "value": true
+    },
+    {
+     "variable": "consultantOrganizationName",
+     "label": "Name of the organisation",
+     "value": "Ecogreen Enviro Services"
+    },
+    {
+     "variable": "consultantAccreditationNo",
+     "label": "Accreditation number",
+     "value": "NABET/EIA/23-26/RA 0325"
+    },
+    {
+     "variable": "consultantCategoryOfAccreditation",
+     "label": "Category of accreditation",
+     "value": null
+    },
+    {
+     "variable": "consultantSectorsOfAccreditation",
+     "label": "Sectors of accreditation",
+     "value": null
+    },
+    {
+     "variable": "consultantValidityOfAccreditation",
+     "label": "Validity of accreditation",
+     "value": "24/12/2026"
+    }
+   ]
+  }
+ },
+ "form_version": 1
+}

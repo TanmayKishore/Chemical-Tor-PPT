@@ -1,0 +1,16 @@
+{
+  "basic_details": {
+    "project_id": "TEST-CHEM-001",
+    "project_name": "Active Life Chemicals Manufacturing Facility",
+    "proponent_name": "M/s Active Life Organics Ltd",
+    "project_type": "New",
+    "project_category": "5(f)",
+    "appraisal_category": "B1",
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "plot_area_sqm": 50000.0,
+    "greenbelt_area_sqm": 16500.0,
+    "total_cost_inr_crores": 65.0
+  }
+}
+

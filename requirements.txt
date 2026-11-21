@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.32.0
+pydantic==2.9.2
+langgraph==0.2.22
+langchain-openai==0.2.0
+langchain-core==0.3.0
+python-pptx==1.0.2
+python-multipart==0.0.9
+python-dotenv==1.0.1
+httpx==0.27.2
+pyyaml
+pillow>=10.1.0
+jinja2==3.1.6
+doc-forge @ git+https://github.com/climate-agents-ai-org/doc-forge.git@560e0f19f1999a75bb36b243b283b27f5e9a1472
+

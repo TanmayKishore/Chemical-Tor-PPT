@@ -1,0 +1,247 @@
+[
+  {
+    "section_id": "cover",
+    "slide_id": "cover",
+    "title": "Proposed expansion by addition of Synthetic Organic Chemicals (Ceramic Binder) in existing Inorganic Chemicals manufacturing unit",
+    "first_page": 1,
+    "slides": 1
+  },
+  {
+    "section_id": "contents",
+    "slide_id": "contents",
+    "title": "Presentation Contents",
+    "first_page": 2,
+    "slides": 0
+  },
+  {
+    "section_id": "nabet",
+    "slide_id": "nabet",
+    "title": "NABET Accreditation",
+    "first_page": 2,
+    "slides": 1
+  },
+  {
+    "section_id": "statutory_status",
+    "slide_id": "statutory_status",
+    "title": "Brief Description of the Project",
+    "first_page": 3,
+    "slides": 1
+  },
+  {
+    "section_id": "undertaking_letterhead",
+    "slide_id": "undertaking_letterhead",
+    "title": "Undertaking on Letterhead",
+    "first_page": 4,
+    "slides": 1
+  },
+  {
+    "section_id": "litigation",
+    "slide_id": "litigation",
+    "title": "Public Complaints and Litigation Status",
+    "first_page": 5,
+    "slides": 1
+  },
+  {
+    "section_id": "earlier_clearances",
+    "slide_id": "earlier_clearances",
+    "title": "Detail of Earlier EC / CTO / Certified Compliance Report",
+    "first_page": 6,
+    "slides": 1
+  },
+  {
+    "section_id": "msihc_undertaking",
+    "slide_id": "msihc_undertaking",
+    "title": "Notarized Undertaking under MSIHC Rules, 1989",
+    "first_page": 7,
+    "slides": 1
+  },
+  {
+    "section_id": "key_metrics",
+    "slide_id": "key_metrics",
+    "title": "Brief Description of the Project (Key Metrics)",
+    "first_page": 8,
+    "slides": 1
+  },
+  {
+    "section_id": "land_breakup",
+    "slide_id": "land_breakup",
+    "title": "Land Break-up and Area Adequacy",
+    "first_page": 9,
+    "slides": 2
+  },
+  {
+    "section_id": "land_documents",
+    "slide_id": "land_documents",
+    "title": "Land Documents",
+    "first_page": 11,
+    "slides": 1
+  },
+  {
+    "section_id": "product_list",
+    "slide_id": "product_list",
+    "title": "List of Products",
+    "first_page": 12,
+    "slides": 1
+  },
+  {
+    "section_id": "raw_materials",
+    "slide_id": "raw_materials",
+    "title": "Product-wise Raw Materials",
+    "first_page": 13,
+    "slides": 1
+  },
+  {
+    "section_id": "manufacturing_process",
+    "slide_id": "manufacturing_process",
+    "title": "Manufacturing Process & Reaction Scheme (PFD)",
+    "first_page": 14,
+    "slides": 1
+  },
+  {
+    "section_id": "manufacturing_process",
+    "slide_id": "manufacturing_process",
+    "title": "Plant & Machinery Schedule",
+    "first_page": 15,
+    "slides": 1
+  },
+  {
+    "section_id": "maps",
+    "slide_id": "maps",
+    "title": "Location of Project and its Connectivity",
+    "first_page": 16,
+    "slides": 1
+  },
+  {
+    "section_id": "layout_plan",
+    "slide_id": "layout_plan",
+    "title": "Layout of the Project Site",
+    "first_page": 17,
+    "slides": 1
+  },
+  {
+    "section_id": "siting_criteria",
+    "slide_id": "siting_criteria",
+    "title": "Siting Criteria",
+    "first_page": 18,
+    "slides": 1
+  },
+  {
+    "section_id": "sensitivity_screening",
+    "slide_id": "sensitivity_screening",
+    "title": "Environmental Sensitivity Screening",
+    "first_page": 19,
+    "slides": 1
+  },
+  {
+    "section_id": "water_balance_table",
+    "slide_id": "water_balance_table",
+    "title": "Water Requirement and Water Balance",
+    "first_page": 20,
+    "slides": 1
+  },
+  {
+    "section_id": "wastewater_generation",
+    "slide_id": "wastewater_generation",
+    "title": "Wastewater Generation",
+    "first_page": 21,
+    "slides": 1
+  },
+  {
+    "section_id": "wastewater_treatability",
+    "slide_id": "wastewater_treatability",
+    "title": "Wastewater Treatability and Characteristics",
+    "first_page": 22,
+    "slides": 1
+  },
+  {
+    "section_id": "flue_and_process_gas",
+    "slide_id": "flue_and_process_gas",
+    "title": "Flue Gas Emissions & Stack Details",
+    "first_page": 23,
+    "slides": 1
+  },
+  {
+    "section_id": "flue_and_process_gas",
+    "slide_id": "flue_and_process_gas",
+    "title": "Process Gas Emissions & Scrubber Details",
+    "first_page": 24,
+    "slides": 1
+  },
+  {
+    "section_id": "fugitive_ldar",
+    "slide_id": "fugitive_ldar",
+    "title": "Action Plan to Control & Monitor Fugitive Emissions (LDAR)",
+    "first_page": 25,
+    "slides": 1
+  },
+  {
+    "section_id": "hazardous_waste",
+    "slide_id": "hazardous_waste",
+    "title": "Hazardous Waste Management Matrix",
+    "first_page": 26,
+    "slides": 2
+  },
+  {
+    "section_id": "non_hazardous_waste",
+    "slide_id": "non_hazardous_waste",
+    "title": "Non-Hazardous Waste Management",
+    "first_page": 28,
+    "slides": 1
+  },
+  {
+    "section_id": "general_safety",
+    "slide_id": "general_safety",
+    "title": "Process Safety & Occupational Health Measures",
+    "first_page": 29,
+    "slides": 1
+  },
+  {
+    "section_id": "fire_and_peso",
+    "slide_id": "fire_and_peso",
+    "title": "Fire Protection Plan & PESO Compliance",
+    "first_page": 30,
+    "slides": 1
+  },
+  {
+    "section_id": "nearest_fire_station",
+    "slide_id": "nearest_fire_station",
+    "title": "Nearest Fire Station & Emergency Response",
+    "first_page": 31,
+    "slides": 1
+  },
+  {
+    "section_id": "hazardous_storage",
+    "slide_id": "hazardous_storage",
+    "title": "Storage Details of Hazardous Chemicals & Safety Measures",
+    "first_page": 32,
+    "slides": 2
+  },
+  {
+    "section_id": "threshold_compliance",
+    "slide_id": "threshold_compliance",
+    "title": "Compliance with EIA Notification 2006 Threshold Conditions",
+    "first_page": 34,
+    "slides": 1
+  },
+  {
+    "section_id": "emp_cost_table",
+    "slide_id": "emp_cost_table",
+    "title": "Environment Management Plan (Cost Table)",
+    "first_page": 35,
+    "slides": 2
+  },
+  {
+    "section_id": "prayer",
+    "slide_id": "prayer",
+    "title": "Request to the Committee",
+    "first_page": 37,
+    "slides": 1
+  },
+  {
+    "section_id": "thank_you",
+    "slide_id": "thank_you",
+    "title": "Thank You",
+    "first_page": 38,
+    "slides": 1
+  }
+]

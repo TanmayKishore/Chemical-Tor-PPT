@@ -1,0 +1,533 @@
+{
+ "form_type": "formB",
+ "form_data": {
+  "connectivity": {
+   "index": 3,
+   "label": "Connectivity",
+   "fields": [
+    {
+     "variable": "nearestRailwayStation",
+     "label": "Nearest railway station",
+     "value": null
+    },
+    {
+     "variable": "nearestAirport",
+     "label": "Nearest airport",
+     "value": null
+    },
+    {
+     "variable": "nearestTownOrDistrictHQ",
+     "label": "Nearest town / district headquarters",
+     "value": "Morbi - 6.45 km SW"
+    }
+   ]
+  },
+  "use_of_resources": {
+   "index": 8,
+   "label": "Use of Resources",
+   "fields": [
+    {
+     "variable": "waterDuringOperation",
+     "type": "table",
+     "label": "Water requirement during operation",
+     "value": [
+      {
+       "source": "Bore well",
+       "quantityKldPresent": 3.5,
+       "quantityKldWithExpansion": 15.5,
+       "methodOfWithdrawal": null,
+       "distanceFromSourceM": null,
+       "modeOfTransport": null,
+       "permissionDetails": null
+      }
+     ]
+    }
+   ]
+  },
+  "physical_changes": {
+   "index": 9,
+   "label": "Physical Changes",
+   "fields": [
+    {
+     "variable": "permanentOrTemporaryLandUseChange",
+     "label": "Whether the project involves a change in land use",
+     "value": false
+    }
+   ]
+  },
+  "groundwater_and_water_conservation": {
+   "index": 11,
+   "label": "Groundwater and Water Conservation",
+   "fields": [
+    {
+     "variable": "zldProposed",
+     "label": "Whether Zero Liquid Discharge is proposed",
+     "value": null
+    },
+    {
+     "variable": "zldDetails",
+     "label": "ZLD details",
+     "value": null
+    }
+   ]
+  },
+  "sector_specific_chemical": {
+   "index": 16,
+   "label": "Sector Specific details - Synthetic Organic Chemicals Industry (5(f))",
+   "fields": [
+    {
+     "variable": "numberOfPlants",
+     "label": "Number of manufacturing plants",
+     "value": 1
+    },
+    {
+     "variable": "productMixRationale",
+     "label": "Number and mix of products against plant capacity",
+     "value": "2-3 products to be manufactured considering plant capacity."
+    },
+    {
+     "variable": "manufacturingProcess",
+     "type": "table",
+     "label": "Manufacturing process",
+     "value": null,
+     "columns": [
+      "product",
+      "steps[operation, inputs, conditions, equipment, outputs]",
+      "reaction",
+      "byProducts"
+     ]
+    },
+    {
+     "variable": "plantMachinery",
+     "type": "table",
+     "label": "Plant & machinery",
+     "value": null
+    },
+    {
+     "variable": "processGasEmission",
+     "label": "Whether the manufacturing process emits process gas",
+     "value": false
+    },
+    {
+     "variable": "processGasSources",
+     "type": "table",
+     "label": "Process gas emission sources",
+     "value": []
+    },
+    {
+     "variable": "fugitiveSources",
+     "type": "table",
+     "label": "Fugitive emission sources and control",
+     "value": [
+      {
+       "source": "Loading and unloading section",
+       "controlMeasures": [
+        "top & side suction hood at material unloading",
+        "water sprayed on the material prior to and during loading & unloading"
+       ]
+      },
+      {
+       "source": "Material handling and transfer points",
+       "controlMeasures": [
+        "top & side suction hood at material transfer points"
+       ]
+      },
+      {
+       "source": "Roads and transportation of vehicles",
+       "controlMeasures": [
+        "paving of all roads on which raw materials or products move"
+       ]
+      }
+     ]
+    },
+    {
+     "variable": "fugitiveGeneralMeasures",
+     "label": "General measures to control fugitive emission",
+     "value": [
+      "raw material stored in a covered structure",
+      "dust suction system for fugitive emission from melting of ingots/billets",
+      "dust suppression system",
+      "green belt around the plant to arrest fugitive emission",
+      "good housekeeping, proper maintenance and continuous observation in the process area",
+      "regular maintenance of air pollution control equipment",
+      "covered conveyors",
+      "dust masks for all workers"
+     ],
+     "type": "list"
+    },
+    {
+     "variable": "fugitiveMonitoring",
+     "label": "Monitoring of fugitive emission",
+     "value": {
+      "what": "fugitive emission in the work area",
+      "frequency": "regular, periodic"
+     },
+     "type": "object"
+    },
+    {
+     "variable": "safetyMeasures",
+     "type": "table",
+     "label": "Safety measures",
+     "value": [
+      {
+       "topic": "Fire Protection",
+       "measure": "fire hydrant system with hose reel, fire extinguishers and foam type trolleys (9 kg and 50 kg) in each plant and building, including the hazardous waste storage and STP areas",
+       "standard": "TAC/NFPA norms"
+      },
+      {
+       "topic": "Fire Protection",
+       "measure": "manual call points for fire location identification in the plant premises"
+      },
+      {
+       "topic": "PPE",
+       "measure": "PPEs and fire proximity suits for all employees",
+       "standard": "BIS or equivalent"
+      },
+      {
+       "topic": "PPE",
+       "measure": "visual displays of PPE use, with instructions in the local language, at appropriate places"
+      },
+      {
+       "topic": "Work Zone Monitoring",
+       "measure": "work zone monitoring for safe working conditions",
+       "frequency": "during each 8 hr shift"
+      },
+      {
+       "topic": "Occupational Health",
+       "measure": "Occupational Health Centre and OHS training for all employees",
+       "standard": "Gujarat Factories Rules, 1963 and its amendments"
+      },
+      {
+       "topic": "Emergency Preparedness",
+       "measure": "on-site emergency mock drills",
+       "frequency": "periodic"
+      },
+      {
+       "topic": "Emergency Preparedness",
+       "measure": "off-site emergency mock drills",
+       "frequency": "occasional"
+      },
+      {
+       "topic": "Emergency Preparedness",
+       "measure": "emergency handling facilities kept in operating condition at all times; emergency equipment and quantities listed in the on-site emergency plan"
+      },
+      {
+       "topic": "Safe Operating Procedures",
+       "measure": "safe operating procedures for hazardous processes and material handling"
+      },
+      {
+       "topic": "Calibration",
+       "measure": "calibration of safety devices and control instruments",
+       "frequency": "once a year"
+      },
+      {
+       "topic": "Training",
+       "measure": "induction safety course for all new employees before they start duties"
+      }
+     ]
+    },
+    {
+     "variable": "factoryRules",
+     "label": "Applicable factory rules",
+     "value": "Gujarat Factories Rules, 1963"
+    },
+    {
+     "variable": "pesoRegulatedStorage",
+     "label": "Whether PESO-regulated material is stored",
+     "value": null
+    },
+    {
+     "variable": "pesoDetails",
+     "label": "PESO compliance details",
+     "value": null
+    },
+    {
+     "variable": "storageSafetyMeasures",
+     "label": "Safety measures for the storage area",
+     "value": [
+      {
+       "measure": "Leak response",
+       "detail": "check the source of the leakage point"
+      },
+      {
+       "measure": "Spill neutralisation",
+       "detail": "lime / alkali sand readily available"
+      },
+      {
+       "measure": "Damaged containers",
+       "detail": "not touched without appropriate protective clothing"
+      },
+      {
+       "measure": "Pump discharge",
+       "detail": "NRV on the pump discharge line"
+      },
+      {
+       "measure": "Leaking drums",
+       "detail": "no water or wood dust sprayed on a leaking drum"
+      },
+      {
+       "measure": "Safety shower and eye washer",
+       "detail": "near the storage area, to dilute splashes or burns"
+      },
+      {
+       "measure": "Protective equipment",
+       "detail": "self-breathing apparatus, acid-proof hand gloves, aprons and gum boots"
+      },
+      {
+       "measure": "Container identification",
+       "detail": "level indicator and identification of contents"
+      },
+      {
+       "measure": "Evacuation",
+       "detail": "downwind, up to 0.3 km (300 m), in a small leakage"
+      },
+      {
+       "measure": "Alarm",
+       "detail": "emergency siren and wind sock"
+      },
+      {
+       "measure": "Emergency organisation",
+       "detail": "team as per the on-site and off-site emergency plans"
+      }
+     ],
+     "type": "table"
+    },
+    {
+     "variable": "mahUnit",
+     "label": "Whether the unit is a Major Accident Hazard (MAH) unit under the MSIHC Rules, 1989",
+     "value": false
+    },
+    {
+     "variable": "mahBasis",
+     "label": "Basis of the MAH status",
+     "value": "Not covered in the category of MAH units as no use of such chemicals as per the Management, Storage, Import of Hazardous Chemical Rules (MSIHC Rules), 1989, as per the legal undertaking submitted with the ToR application."
+    },
+    {
+     "variable": "earlierEcJustification",
+     "label": "Why EC was not obtained for the existing unit",
+     "value": "Not applicable as the existing unit has obtained CTO vide Consent order no. AWH-141216, granted on 27/03/2025 and valid up to 18/02/2030, for manufacturing of Sodium Tri Poly Phosphate (STPP) and Fixative, which are inorganic chemicals (non-EC products). Hence, EC is not applicable to the existing unit and the unit is applying to obtain EC for the first time."
+    },
+    {
+     "variable": "cteBefore2006",
+     "label": "First CTE (NOC) & CC&A obtained before 14/09/2006",
+     "value": "Unit has obtained CTO vide Consent order no. AWH-141216, granted on 27/03/2025 and valid up to 18/02/2030, for manufacturing of Sodium Tri Poly Phosphate (STPP) and Fixative, which are inorganic chemicals (non-EC products)."
+    },
+    {
+     "variable": "ccrApplicable",
+     "label": "Whether a Certified Compliance Report is required",
+     "value": false
+    },
+    {
+     "variable": "ccrJustification",
+     "label": "Certified Compliance Report: applicability",
+     "value": "The existing unit manufactures Sodium Tri Poly Phosphate (STPP) and Fixative, which are inorganic chemicals (non-EC products); hence EC is not applicable to the existing unit. The unit has obtained CTO Fresh vide Consent order no. AWH-141216, granted on 27/03/2025 and valid up to 18/02/2030. Thus, CCR is not applicable."
+    },
+    {
+     "variable": "ecComplianceSummary",
+     "label": "Summary of CCR and action taken on EC / consent conditions",
+     "value": null
+    },
+    {
+     "variable": "spcbNotices",
+     "type": "table",
+     "label": "Notices and directions issued by the SPCB in the last 3 years",
+     "value": []
+    },
+    {
+     "variable": "publicComplaintsPending",
+     "label": "Whether any public complaint is pending",
+     "value": false
+    },
+    {
+     "variable": "publicComplaintsDetails",
+     "label": "Public complaints",
+     "value": "No public complaint is pending against the project."
+    },
+    {
+     "variable": "landUseChangeRemarks",
+     "label": "Land use change",
+     "value": "The project is established in private non-agricultural land; hence there will not be any change in land use (Vill. Pipli, Tal. Morbi, Dist. Morbi, Gujarat - 363642)."
+    },
+    {
+     "variable": "siteLatitude",
+     "label": "Latitude (site centre)",
+     "value": "22°52'23.05\" N"
+    },
+    {
+     "variable": "siteLongitude",
+     "label": "Longitude (site centre)",
+     "value": "70°53'4.59\" E"
+    },
+    {
+     "variable": "siteElevation",
+     "label": "Elevation",
+     "value": {
+      "value": 541,
+      "unit": "ft"
+     }
+    },
+    {
+     "variable": "sitingFeatures",
+     "type": "table",
+     "label": "Distances to sensitive features",
+     "value": [
+      {
+       "featureKey": "residential",
+       "name": "Pipali Village",
+       "distanceKm": 2.37,
+       "direction": "SW"
+      },
+      {
+       "featureKey": "densely_populated",
+       "name": "Morbi",
+       "distanceKm": 6.45,
+       "direction": "SW"
+      },
+      {
+       "featureKey": "river",
+       "name": "Machhu River",
+       "distanceKm": 6.47,
+       "direction": "W"
+      },
+      {
+       "featureKey": "natural_drain",
+       "name": "Natural Drain",
+       "distanceKm": 2.95,
+       "direction": "N"
+      },
+      {
+       "featureKey": "lake_pond",
+       "name": "Pipali Village Pond",
+       "distanceKm": 2.5,
+       "direction": "SW"
+      },
+      {
+       "featureKey": "reservoir",
+       "name": "Machhu-III Dam",
+       "distanceKm": 7.34,
+       "direction": "W"
+      },
+      {
+       "featureKey": "canal",
+       "name": "Canal",
+       "distanceKm": 6.2,
+       "direction": "NW"
+      },
+      {
+       "featureKey": "public_building",
+       "name": "Laxminagar Primary School",
+       "distanceKm": 5.32,
+       "direction": "WNW"
+      },
+      {
+       "featureKey": "public_building",
+       "name": "Rudra Hospital",
+       "distanceKm": 3.08,
+       "direction": "NNW"
+      },
+      {
+       "featureKey": "public_building",
+       "name": "Rangpar Bela Branch Post Office",
+       "distanceKm": 2.72,
+       "direction": "N"
+      },
+      {
+       "featureKey": "national_highway",
+       "name": "NH-27",
+       "distanceKm": 4.06,
+       "direction": "W"
+      },
+      {
+       "featureKey": "state_highway",
+       "name": "SH-22",
+       "distanceKm": 3.0,
+       "direction": "S"
+      },
+      {
+       "featureKey": "state_highway",
+       "name": "SH-321",
+       "distanceKm": 0.93,
+       "direction": "W"
+      },
+      {
+       "featureKey": "village_road",
+       "name": "Talaviya Sanala Road, Bela Village",
+       "distanceKm": 2.62,
+       "direction": "N"
+      },
+      {
+       "featureKey": "htl",
+       "name": "Gulf of Kutch (HTL)",
+       "distanceKm": 33.7,
+       "direction": "NW"
+      },
+      {
+       "featureKey": "ltl",
+       "name": "Gulf of Kutch (LTL)",
+       "distanceKm": 40.79,
+       "direction": "W"
+      }
+     ]
+    },
+    {
+     "variable": "nearestFireStation",
+     "type": "table",
+     "label": "Nearest fire station",
+     "value": [
+      {
+       "name": "Fire Brigade, Morbi",
+       "distanceKm": 10,
+       "direction": "SSW",
+       "travelTime": "30-35 min"
+      }
+     ]
+    },
+    {
+     "variable": "landOwnership",
+     "type": "table",
+     "label": "Land ownership and documents",
+     "value": [
+      {
+       "surveyOrPlotNo": "Plot No. 45-48",
+       "tenure": "owned",
+       "document": "Dastavej (sale deed) copy",
+       "lessor": null,
+       "lessee": null,
+       "leaseTerm": null
+      },
+      {
+       "surveyOrPlotNo": "Survey No. 187/1p2",
+       "tenure": "owned",
+       "document": "NA (non-agricultural) order copy",
+       "lessor": null,
+       "lessee": null,
+       "leaseTerm": null
+      },
+      {
+       "surveyOrPlotNo": "Survey No. 187/1p1, 182 p2 & 188/1p3",
+       "tenure": "owned",
+       "document": "NA (non-agricultural) order copy",
+       "lessor": null,
+       "lessee": null,
+       "leaseTerm": null
+      },
+      {
+       "surveyOrPlotNo": "Plot No. 44",
+       "tenure": "rented",
+       "document": "Rent agreement; lessor & lessee undertaking",
+       "lessor": null,
+       "lessee": null,
+       "leaseTerm": null
+      }
+     ]
+    },
+    {
+     "variable": "constitutionDocuments",
+     "label": "Constitution and authority documents",
+     "value": "Partnership deed; authority letter"
+    }
+   ]
+  }
+ },
+ "form_version": 1
+}

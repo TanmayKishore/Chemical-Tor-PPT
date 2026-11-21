@@ -1,0 +1,30 @@
+[
+  {
+    "section_id": "cover",
+    "slide_id": "cover",
+    "title": "Active Life Chemicals Manufacturing Facility",
+    "first_page": 1,
+    "slides": 1
+  },
+  {
+    "section_id": "contents",
+    "slide_id": "contents",
+    "title": "Presentation Contents",
+    "first_page": 2,
+    "slides": 1
+  },
+  {
+    "section_id": "prayer",
+    "slide_id": "prayer",
+    "title": "Request to the Committee",
+    "first_page": 3,
+    "slides": 1
+  },
+  {
+    "section_id": "thank_you",
+    "slide_id": "thank_you",
+    "title": "Thank You",
+    "first_page": 4,
+    "slides": 1
+  }
+]

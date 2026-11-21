@@ -1,0 +1,408 @@
+{
+  "basic_details": {
+    "project_id": "APEX-CHEM-5F-001",
+    "project_name": "Proposed Bulk Drug Intermediates Manufacturing Unit",
+    "proponent_name": "M/s Apex Life Sciences Private Limited",
+    "project_type": "New",
+    "project_category": "5(f)",
+    "appraisal_category": "B1",
+    "schedule_item": "5(f) Synthetic Organic Chemicals",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "industrial_area_name": "TSIIC Pashamylaram Industrial Park",
+    "plot_area_sqm": 40468.0,
+    "greenbelt_area_sqm": 13400.0,
+    "total_cost_inr_crores": 48.5,
+    "power_kld_or_kva": 1800.0,
+    "manpower_count": 145,
+    "coordinates": "17°31'42.5\"N, 78°10'15.2\"E"
+  },
+  "consultant": {
+    "company_name": "EcoTech Environmental Services Pvt Ltd",
+    "accreditation_number": "NABET/EIA/2326/RA0298",
+    "category": "A",
+    "sectors_accredited": "Sector 21 (Synthetic organic chemicals industry), Sector 39",
+    "validity": "31/12/2026",
+    "address": "Hyderabad, Telangana"
+  },
+  "statutory": {
+    "proposal_no": "SIA/TG/IND3/452819/2026",
+    "submission_date": "18/10/2026",
+    "forms_submitted": "Form 1, Form CAF, Pre-Feasibility Report (PFR)",
+    "appraisal_stage": "Terms of Reference (ToR) for EIA/EMP study",
+    "seac_meeting": "SEAC Telangana - Meeting 42",
+    "agenda_item": "Agenda Item 5(f).03"
+  },
+  "litigation": {
+    "court_cases": "The project proponent affirms under oath that no litigation, public interest writ petition, court case, contempt petition, or National Green Tribunal (NGT) order is pending or has been instituted against the proposed synthetic organic chemicals manufacturing unit or against the project land as on date.",
+    "public_complaints": "No public complaints received. The project is situated inside an approved industrial estate."
+  },
+  "land_breakup": [
+    {"particular": "Production Blocks (Block A & B)", "area_sqm": 8500.0, "percentage": 21.0},
+    {"particular": "Raw Material & Finished Goods Storage", "area_sqm": 5000.0, "percentage": 12.35},
+    {"particular": "Utility Area (Boiler, DG sets, Chilling Plant)", "area_sqm": 3500.0, "percentage": 8.65},
+    {"particular": "ETP, MEE & ZLD Installation", "area_sqm": 4000.0, "percentage": 9.88},
+    {"particular": "Hazardous Waste Storage Shed", "area_sqm": 1200.0, "percentage": 2.97},
+    {"particular": "Greenbelt & Tree Plantation", "area_sqm": 13400.0, "percentage": 33.11},
+    {"particular": "Internal Roads, Pavements & Parking", "area_sqm": 3500.0, "percentage": 8.65},
+    {"particular": "Admin Building, Security & Open Space", "area_sqm": 1368.0, "percentage": 3.38}
+  ],
+  "siting_criteria": {
+    "nearest_highway": "NH-65 (Hyderabad-Pune) at 4.2 km, North",
+    "nearest_railway_station": "Patancheru Railway Station at 12.5 km, East",
+    "nearest_airport": "Rajiv Gandhi International Airport (RGIA) at 52.0 km, South-East",
+    "nearest_water_body": "Manjeera River at 8.8 km, West",
+    "nearest_habitation": "Pashamylaram Village at 2.1 km, South-East",
+    "notified_industrial_area": "TSIIC Pashamylaram Industrial Park (Notified under EIA 2006)",
+    "general_conditions": "Not applicable; project is located inside approved industrial estate and > 10 km from interstate boundary"
+  },
+  "sensitivity_screening": [
+    {"feature": "National Parks / Wildlife Sanctuaries", "presence_within_10km": "None", "distance_km": "None within 10 km"},
+    {"feature": "Eco-Sensitive Zones (ESZ)", "presence_within_10km": "None", "distance_km": "None within 10 km"},
+    {"feature": "Reserve / Protected Forests", "presence_within_10km": "Yes", "distance_km": "Narsapur Reserve Forest (12.4 km)"},
+    {"feature": "Critically Polluted Area (CPA/CEPI)", "presence_within_10km": "No", "distance_km": "Not located in a CPA"}
+  ],
+  "products": [
+    {
+      "s_no": 1,
+      "product_name": "4-Chloro-2-Nitroaniline",
+      "cas_no": "89-63-4",
+      "proposed_capacity_mt_month": 50.0,
+      "unit": "MT/month",
+      "end_use": "Intermediate for Dyes, Pigments & Agrochemicals"
+    },
+    {
+      "s_no": 2,
+      "product_name": "2-Amino-5-Chlorobenzophenone",
+      "cas_no": "719-59-5",
+      "proposed_capacity_mt_month": 40.0,
+      "unit": "MT/month",
+      "end_use": "Intermediate for Benzodiazepine Bulk Drugs"
+    },
+    {
+      "s_no": 3,
+      "product_name": "4-Nitroimidazole",
+      "cas_no": "3034-38-6",
+      "proposed_capacity_mt_month": 30.0,
+      "unit": "MT/month",
+      "end_use": "Intermediate for Metronidazole & Antibacterials"
+    }
+  ],
+  "raw_materials": [
+    {
+      "product_name": "4-Chloro-2-Nitroaniline",
+      "raw_material_name": "p-Nitrochlorobenzene (PNCB)",
+      "cas_no": "100-00-5",
+      "consumption_ratio": 1.15,
+      "daily_requirement": 1.92,
+      "storage_type": "Drums in Shed",
+      "source": "Domestic"
+    },
+    {
+      "product_name": "4-Chloro-2-Nitroaniline",
+      "raw_material_name": "Ammonia (25% Aqueous Solution)",
+      "cas_no": "1336-21-6",
+      "consumption_ratio": 0.85,
+      "daily_requirement": 1.42,
+      "storage_type": "Underground Tank",
+      "source": "Domestic"
+    },
+    {
+      "product_name": "2-Amino-5-Chlorobenzophenone",
+      "raw_material_name": "p-Chloroaniline",
+      "cas_no": "106-47-8",
+      "consumption_ratio": 0.72,
+      "daily_requirement": 0.96,
+      "storage_type": "Bags in Shed",
+      "source": "Domestic"
+    },
+    {
+      "product_name": "2-Amino-5-Chlorobenzophenone",
+      "raw_material_name": "Benzoyl Chloride",
+      "cas_no": "98-88-4",
+      "consumption_ratio": 0.78,
+      "daily_requirement": 1.04,
+      "storage_type": "Drums in Shed",
+      "source": "Domestic"
+    },
+    {
+      "product_name": "4-Nitroimidazole",
+      "raw_material_name": "Imidazole",
+      "cas_no": "288-32-4",
+      "consumption_ratio": 0.65,
+      "daily_requirement": 0.65,
+      "storage_type": "Bags in Shed",
+      "source": "Domestic"
+    },
+    {
+      "product_name": "4-Nitroimidazole",
+      "raw_material_name": "Nitric Acid (68%)",
+      "cas_no": "7697-37-2",
+      "consumption_ratio": 1.10,
+      "daily_requirement": 1.10,
+      "storage_type": "Dedicated Acid Tanks",
+      "source": "Domestic"
+    }
+  ],
+  "manufacturing_process": {
+    "summary": "Multi-step organic synthesis involving Nitration, Ammonolysis, Condensation, and Controlled Crystallization with in-house solvent distillation.",
+    "machinery": [
+      {"equipment": "Glass Lined Reactor (GLR)", "capacity": "5.0 KL", "nos": 6, "moc": "GLR"},
+      {"equipment": "SS-316 Reactor", "capacity": "3.0 KL", "nos": 4, "moc": "SS-316"},
+      {"equipment": "Centrifuge", "capacity": "48 inch basket", "nos": 4, "moc": "SS-316"},
+      {"equipment": "Fractional Distillation Column", "capacity": "2.0 KL/hr", "nos": 2, "moc": "SS-316"},
+      {"equipment": "Fluidized Bed Dryer (FBD)", "capacity": "300 kg/batch", "nos": 2, "moc": "SS-316"},
+      {"equipment": "Solvent Storage Tanks", "capacity": "30.0 KL", "nos": 4, "moc": "Mild Steel / SS"}
+    ]
+  },
+  "water_balance": {
+    "total_fresh_water_kld": 85.0,
+    "total_recycled_water_kld": 62.0,
+    "total_water_demand_kld": 147.0,
+    "streams": [
+      {"purpose": "Industrial Process & Reactions", "fresh_kld": 25.0, "recycled_kld": 15.0, "total_kld": 40.0, "source": "TSIIC Supply / RO Permeate"},
+      {"purpose": "Cooling Tower Make-up", "fresh_kld": 30.0, "recycled_kld": 35.0, "total_kld": 65.0, "source": "TSIIC Supply / RO Permeate"},
+      {"purpose": "Boiler Feed & Steam", "fresh_kld": 15.0, "recycled_kld": 12.0, "total_kld": 27.0, "source": "Softened Water / Condensate"},
+      {"purpose": "Washing & Scrubber", "fresh_kld": 5.0, "recycled_kld": 0.0, "total_kld": 5.0, "source": "TSIIC Water Supply"},
+      {"purpose": "Domestic / Canteen", "fresh_kld": 10.0, "recycled_kld": 0.0, "total_kld": 10.0, "source": "TSIIC Potable Water"}
+    ]
+  },
+  "wastewater": {
+    "total_generation_kld": 58.0,
+    "zld_status": "100% Zero Liquid Discharge (ZLD)",
+    "streams": [
+      {
+        "stream_name": "High COD / High TDS Process Effluent",
+        "generation_kld": 18.0,
+        "cod_mg_l": 22000,
+        "tds_mg_l": 28000,
+        "treatment_scheme": "Neutralization -> Stripper -> Multiple Effect Evaporator (MEE) -> ATFD"
+      },
+      {
+        "stream_name": "Low COD / Low TDS Washings & Blowdowns",
+        "generation_kld": 32.0,
+        "cod_mg_l": 1800,
+        "tds_mg_l": 3200,
+        "treatment_scheme": "Equalization -> Primary Clarifier -> Biological Aeration -> Dual Media Filter -> Two Stage RO"
+      },
+      {
+        "stream_name": "Domestic Sewage",
+        "generation_kld": 8.0,
+        "cod_mg_l": 320,
+        "tds_mg_l": 750,
+        "treatment_scheme": "Moving Bed Biofilm Reactor (MBBR) Package STP -> 100% reused for on-site greenbelt"
+      }
+    ]
+  },
+  "air_emissions": {
+    "flue_gas_stacks": [
+      {
+        "source": "Briquette / Coal Fired Boiler (4.0 TPH)",
+        "fuel_consumption": "Briquettes (14 TPD)",
+        "stack_height_m": 30.0,
+        "apcm": "Multi-Cyclone Dust Collector followed by Bag Filter",
+        "emissions": "PM < 115 mg/Nm3, SO2 < 100 mg/Nm3"
+      },
+      {
+        "source": "DG Set (500 kVA - Standby)",
+        "fuel_consumption": "HSD (90 L/hr during power cut)",
+        "stack_height_m": 6.5,
+        "apcm": "Acoustic Enclosure with CPCB compliant exhaust stack",
+        "emissions": "Standard CPCB II norms"
+      }
+    ],
+    "process_gas_vents": [
+      {
+        "vent_source": "Chlorination & Nitration Reactor Vents",
+        "gas_emitted": "HCl & NOx acidic fumes",
+        "apcm": "Two-Stage Counter-Current Alkali Packed Bed Scrubber",
+        "efficiency": "> 99% Acid Gas Removal"
+      },
+      {
+        "vent_source": "Ammonolysis Reaction Vent",
+        "gas_emitted": "Ammonia (NH3) vapors",
+        "apcm": "Dilute Acid Wet Scrubber to produce Ammonium Salt solution",
+        "efficiency": "> 98% Recovery"
+      }
+    ],
+    "ldar_plan": [
+      "Quarterly monitoring of 100% components (valves, pumps, flanges) using portable VOC/FID analyzer (US EPA Method 21).",
+      "Installation of double mechanical seals with barrier fluid systems on all solvent transfer pumps.",
+      "Closed loop sampling ports to prevent fugitive solvent vapor release during quality testing.",
+      "Nitrogen blanketing provided for all bulk solvent storage tanks with vent condensers maintained at -15°C."
+    ]
+  },
+  "hazardous_waste": [
+    {
+      "s_no": 1,
+      "waste_description": "ETP Chemical Sludge",
+      "category": "Schedule I - 35.3",
+      "quantity": 42.0,
+      "unit": "MTA",
+      "storage_method": "Dedicated covered shed with impervious concrete floor & leachate collection",
+      "disposal_pathway": "Disposal to authorized TSDF (Hyderabad Waste Management Project, Dundigal)"
+    },
+    {
+      "s_no": 2,
+      "waste_description": "MEE / ATFD Salts",
+      "category": "Schedule I - 35.3",
+      "quantity": 38.0,
+      "unit": "MTA",
+      "storage_method": "HDPE bags in covered hazardous waste storage shed",
+      "disposal_pathway": "Disposal to secured landfill (TSDF)"
+    },
+    {
+      "s_no": 3,
+      "waste_description": "Organic Distillation Residue",
+      "category": "Schedule I - 28.1",
+      "quantity": 55.0,
+      "unit": "MTA",
+      "storage_method": "Epoxy coated MS drums in shed",
+      "disposal_pathway": "Co-processing in authorized Cement Kiln as alternate fuel (AFR)"
+    },
+    {
+      "s_no": 4,
+      "waste_description": "Spent Solvents (Mixed)",
+      "category": "Schedule I - 28.6",
+      "quantity": 140.0,
+      "unit": "MTA",
+      "storage_method": "Underground solvent tanks with flame arrestors",
+      "disposal_pathway": "In-house recovery (fractional distillation) with > 90% recovery; residue to co-processing"
+    },
+    {
+      "s_no": 5,
+      "waste_description": "Used Oil from DG Sets & Gearboxes",
+      "category": "Schedule I - 5.1",
+      "quantity": 2.5,
+      "unit": "KL/yr",
+      "storage_method": "Dedicated leak-proof drums in designated utility shed",
+      "disposal_pathway": "Sale to CPCB/SPCB authorized re-refiners / recyclers"
+    }
+  ],
+  "non_hazardous_waste": [
+    {
+      "waste_name": "Boiler Ash / Fly Ash",
+      "quantity": 180.0,
+      "unit": "MTA",
+      "disposal": "Supplied to local fly-ash brick manufacturers"
+    },
+    {
+      "waste_name": "Used Paper, Packing Materials & Wooden Pallets",
+      "quantity": 8.5,
+      "unit": "MTA",
+      "disposal": "Sale to authorized commercial recyclers"
+    },
+    {
+      "waste_name": "Domestic Municipal Solid Waste",
+      "quantity": 12.0,
+      "unit": "MTA",
+      "disposal": "Segregated organic waste to in-vessel organic composter; dry waste to municipal collection"
+    }
+  ],
+  "chemical_storage": [
+    {
+      "chemical_name": "Methanol",
+      "cas_no": "67-56-1",
+      "max_storage_quantity": 50.0,
+      "unit": "KL",
+      "storage_type": "Underground Tank",
+      "flammability_toxicity": "Flammable (Flash point: 11°C), Toxic",
+      "safety_provisions": "Nitrogen blanketing, flame arrestor, dyke wall capacity 110%, high level audio-visual alarm",
+      "peso_licensed": true
+    },
+    {
+      "chemical_name": "Toluene",
+      "cas_no": "108-88-3",
+      "max_storage_quantity": 40.0,
+      "unit": "KL",
+      "storage_type": "Underground Tank",
+      "flammability_toxicity": "Flammable (Flash point: 4°C)",
+      "safety_provisions": "Flame arrestor, double mechanical pump seal, dedicated foam deluge system",
+      "peso_licensed": true
+    },
+    {
+      "chemical_name": "Nitric Acid (68%)",
+      "cas_no": "7697-37-2",
+      "max_storage_quantity": 30.0,
+      "unit": "KL",
+      "storage_type": "Above-ground SS-304 Tank in Acid Dyke",
+      "flammability_toxicity": "Corrosive, Strong Oxidizer",
+      "safety_provisions": "Acid resistant tile dyke, eye wash shower within 5m, neutralizing lime pit",
+      "peso_licensed": false
+    }
+  ],
+  "safety_and_fire": {
+    "general_safety": [
+      "Process Safety Management (PSM) and HAZOP study conducted for all exothermic nitration and chlorination reactions.",
+      "Automated reactor interlocks: High-temperature cut-off, automated chilled water dump, rupture disc with bursting alarm.",
+      "Flameproof (FLP Ex-d) electrical fittings and static grounding loops installed across all solvent handling zones.",
+      "Comprehensive PPE matrix: Gas masks, chemical suits, face shields, and self-contained breathing apparatus (SCBA)."
+    ],
+    "fire_protection": {
+      "fire_water_storage_capacity_m3": 450.0,
+      "pumping_capacity": "2 x 2850 LPM Main Electric Pumps + 1 x 2850 LPM Standby Diesel Pump",
+      "hydrant_network": "Dedicated fire hydrant ring loop around all production blocks with 28 hydrant posts",
+      "foam_systems": "Fixed semi-automatic foam pourers for all flammable solvent storage tanks with 1000 L AFFF foam concentrate",
+      "gas_detection": "LEL sensors for solvent vapors and toxic gas detectors (Cl2, NH3) tied to central alarm panel",
+      "peso_compliance": "Application submitted for PESO prior approval for bulk Class A & B solvent tank farms"
+    },
+    "nearest_fire_station": {
+      "station_name": "Patancheru Industrial Fire Station",
+      "distance_km": 6.8,
+      "travel_time_minutes": 15,
+      "mutual_aid": "Mutual aid agreement with neighboring TSIIC Pashamylaram member chemical industries"
+    },
+    "msihc_undertaking": {
+      "is_mah_unit": true,
+      "rules_applicable": "Manufacture, Storage and Import of Hazardous Chemical (MSIHC) Rules, 1989 (as amended)",
+      "undertaking_text": "The proponent declares that storage of hazardous chemicals is within declared limits and on-site emergency plan is prepared."
+    }
+  },
+  "emp_costs": [
+    {"component": "Zero Liquid Discharge ETP, Stripper, MEE & ATFD", "capital_cost_lakhs": 260.0, "recurring_cost_lakhs_yr": 38.0},
+    {"component": "Air Pollution Control (Bag Filter, Two-stage Scrubbers)", "capital_cost_lakhs": 90.0, "recurring_cost_lakhs_yr": 14.0},
+    {"component": "Greenbelt Development (1.34 Ha - 33.1% area)", "capital_cost_lakhs": 28.0, "recurring_cost_lakhs_yr": 6.5},
+    {"component": "Safety, Fire Fighting Infrastructure & PESO Systems", "capital_cost_lakhs": 75.0, "recurring_cost_lakhs_yr": 9.0},
+    {"component": "Hazardous Waste Storage Shed & Spill Containment", "capital_cost_lakhs": 35.0, "recurring_cost_lakhs_yr": 5.0},
+    {"component": "Environmental Monitoring (Air, Water, Noise & LDAR)", "capital_cost_lakhs": 18.0, "recurring_cost_lakhs_yr": 12.0},
+    {"component": "Corporate Environment Responsibility (CER)", "capital_cost_lakhs": 48.0, "recurring_cost_lakhs_yr": 0.0}
+  ],
+  "activity_data": [
+    {
+      "document_type": "process_flow_diagram",
+      "label": "Process Flow Diagram and Chemical Synthesis Route",
+      "file_name": "pfd_reaction_scheme.png",
+      "file_path": "tests/fixtures/uploads/pfd_reaction_scheme.png"
+    },
+    {
+      "document_type": "plant_layout",
+      "label": "Master Plant Layout Showing 33% Greenbelt & ZLD Area",
+      "file_name": "master_layout_plan.png",
+      "file_path": "tests/fixtures/uploads/master_layout_plan.png"
+    },
+    {
+      "document_type": "topographical_map",
+      "label": "10 km Radius Topographical Map Showing Siting Features",
+      "file_name": "topographical_10km_map.png",
+      "file_path": "tests/fixtures/uploads/topographical_10km_map.png"
+    },
+    {
+      "document_type": "satellite_map",
+      "label": "Google Earth Satellite Map With Plot Boundary",
+      "file_name": "satellite_location_map.png",
+      "file_path": "tests/fixtures/uploads/satellite_location_map.png"
+    },
+    {
+      "document_type": "undertaking_letterhead",
+      "label": "Signed Proponent Undertaking on Official Letterhead",
+      "file_name": "proponent_letterhead_undertaking.png",
+      "file_path": "tests/fixtures/uploads/proponent_letterhead_undertaking.png"
+    },
+    {
+      "document_type": "land_document",
+      "label": "TSIIC Industrial Land Allotment Order and Possession Deed",
+      "file_name": "land_allotment_deed.png",
+      "file_path": "tests/fixtures/uploads/land_allotment_deed.png"
+    }
+  ]
+}

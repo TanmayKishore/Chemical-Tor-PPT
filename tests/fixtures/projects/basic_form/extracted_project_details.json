@@ -1,0 +1,18 @@
+{
+ "sector": "chemical",
+ "data_type": "extracted_project_details",
+ "data": {
+  "project_details": {
+   "index": 1,
+   "label": "Project Details",
+   "fields": [
+    {
+     "variable": "projectNature",
+     "label": "Nature of the project (greenfield / brownfield)",
+     "type": "dropdown",
+     "value": "Brownfield"
+    }
+   ]
+  }
+ }
+}

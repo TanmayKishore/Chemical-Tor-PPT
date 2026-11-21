@@ -1,0 +1,1036 @@
+{
+ "sector": "chemical",
+ "data_type": "project_calculations",
+ "data": {
+  "schema_version": "chemical-1",
+  "status": "ok",
+  "errors": [],
+  "results": {
+   "RawMaterials": {
+    "unit": "MT/month",
+    "rows": [
+     {
+      "product": "Sodium Tri Poly Phosphate",
+      "material": "Inorganic Polymer",
+      "casNo": "12179-04-3",
+      "perTonne": 0.9,
+      "monthly": {
+       "existing": 135.0,
+       "proposed": 0.0,
+       "total": 135.0
+      }
+     },
+     {
+      "product": "Sodium Tri Poly Phosphate",
+      "material": "Caustic Soda",
+      "casNo": "1310-73-2",
+      "perTonne": 0.06,
+      "monthly": {
+       "existing": 9.0,
+       "proposed": 0.0,
+       "total": 9.0
+      }
+     },
+     {
+      "product": "Fixative",
+      "material": "Polyvinyl Alcohol",
+      "casNo": "79-10-7",
+      "perTonne": 0.22,
+      "monthly": {
+       "existing": 11.0,
+       "proposed": 0.0,
+       "total": 11.0
+      }
+     },
+     {
+      "product": "Ceramic Binder",
+      "material": "Acrylic Acid",
+      "casNo": "79-10-7",
+      "perTonne": 0.12,
+      "monthly": {
+       "existing": 0.0,
+       "proposed": 72.0,
+       "total": 72.0
+      }
+     },
+     {
+      "product": "Ceramic Binder",
+      "material": "Acrylamide Solution 50%",
+      "casNo": "79-06-1",
+      "perTonne": 0.22,
+      "monthly": {
+       "existing": 0.0,
+       "proposed": 133.8,
+       "total": 133.8
+      }
+     },
+     {
+      "product": "Ceramic Binder",
+      "material": "Ammonium Persulfate",
+      "casNo": "7727-54-0",
+      "perTonne": 0.01,
+      "monthly": {
+       "existing": 0.0,
+       "proposed": 4.8,
+       "total": 4.8
+      }
+     },
+     {
+      "product": "Ceramic Binder",
+      "material": "Sodium Metabisulfite",
+      "casNo": "7681-57-4",
+      "perTonne": 0.02,
+      "monthly": {
+       "existing": 0.0,
+       "proposed": 9.0,
+       "total": 9.0
+      }
+     },
+     {
+      "product": "Ceramic Binder",
+      "material": "Caustic Soda Lye Solution 50%",
+      "casNo": "1310-73-2",
+      "perTonne": 0.14,
+      "monthly": {
+       "existing": 0.0,
+       "proposed": 84.0,
+       "total": 84.0
+      }
+     }
+    ]
+   },
+   "LandBreakup": {
+    "plotAreaSqm": 3145.29,
+    "rows": [
+     {
+      "particular": "Security Cabin",
+      "basis": null,
+      "areaRequiredSqm": 12,
+      "areaProposedSqm": 12,
+      "groundFloorSqm": 12,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.38
+     },
+     {
+      "particular": "Finished Goods Storage",
+      "basis": "190 MT, 7 days inventory",
+      "areaRequiredSqm": 200,
+      "areaProposedSqm": 250,
+      "groundFloorSqm": 250,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 7.95
+     },
+     {
+      "particular": "Raw Material Storage",
+      "basis": "115 MT, 14 days inventory",
+      "areaRequiredSqm": 120,
+      "areaProposedSqm": 200,
+      "groundFloorSqm": 200,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 6.36
+     },
+     {
+      "particular": "Drum Storage (Flammable & Toxic)",
+      "basis": "20.0 KL (200 L x 100 nos.)",
+      "areaRequiredSqm": 50,
+      "areaProposedSqm": 50,
+      "groundFloorSqm": 50,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 1.59
+     },
+     {
+      "particular": "Drum Storage (Toxic)",
+      "basis": "20.0 KL (200 L x 100 nos.)",
+      "areaRequiredSqm": 50,
+      "areaProposedSqm": 50,
+      "groundFloorSqm": 50,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 1.59
+     },
+     {
+      "particular": "Hazardous Waste Storage Area",
+      "basis": "90 days inventory (3 MT)",
+      "areaRequiredSqm": 6,
+      "areaProposedSqm": 10,
+      "groundFloorSqm": 10,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.32
+     },
+     {
+      "particular": "ETP",
+      "basis": "ETP (Primary & Tertiary) 2 KLD, Evaporator 2.0 KLD, STP 2 KLD",
+      "areaRequiredSqm": 5,
+      "areaProposedSqm": 10,
+      "groundFloorSqm": 10,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.32
+     },
+     {
+      "particular": "Plant Building",
+      "basis": "27 MT/day",
+      "areaRequiredSqm": 200,
+      "areaProposedSqm": 300,
+      "groundFloorSqm": 300,
+      "firstFloorSqm": null,
+      "percentOfPlot": 9.54
+     },
+     {
+      "particular": "Thermic Fluid Heater",
+      "basis": "6.0 lakh kcal/hr (1 no.)",
+      "areaRequiredSqm": 10,
+      "areaProposedSqm": 15,
+      "groundFloorSqm": 15,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.48
+     },
+     {
+      "particular": "Occupational Health Centre",
+      "basis": "16 sq. m required for OHC",
+      "areaRequiredSqm": 16,
+      "areaProposedSqm": 16,
+      "groundFloorSqm": 16,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.51
+     },
+     {
+      "particular": "Admin Building + Lab",
+      "basis": null,
+      "areaRequiredSqm": 50,
+      "areaProposedSqm": 50,
+      "groundFloorSqm": 50,
+      "firstFloorSqm": null,
+      "percentOfPlot": 1.59
+     },
+     {
+      "particular": "Road & Open Area",
+      "basis": "6.0 m wide road",
+      "areaRequiredSqm": null,
+      "areaProposedSqm": 1042.29,
+      "groundFloorSqm": 1042.29,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 33.14
+     },
+     {
+      "particular": "Green Belt",
+      "basis": "33.38 % of plot area",
+      "areaRequiredSqm": 1050.0,
+      "areaProposedSqm": 1050,
+      "groundFloorSqm": 1050,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 33.38
+     },
+     {
+      "particular": "Rest Room",
+      "basis": null,
+      "areaRequiredSqm": 60,
+      "areaProposedSqm": 60,
+      "groundFloorSqm": 30,
+      "firstFloorSqm": 30,
+      "percentOfPlot": 0.95
+     },
+     {
+      "particular": "Fuel Area",
+      "basis": "3 MT, 7 days inventory",
+      "areaRequiredSqm": 3,
+      "areaProposedSqm": 15,
+      "groundFloorSqm": 15,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.48
+     },
+     {
+      "particular": "Fly Ash Area",
+      "basis": "14 MT, 4 days inventory",
+      "areaRequiredSqm": 14,
+      "areaProposedSqm": 15,
+      "groundFloorSqm": 15,
+      "firstFloorSqm": 0,
+      "percentOfPlot": 0.48
+     },
+     {
+      "particular": "Canteen Area",
+      "basis": null,
+      "areaRequiredSqm": 60,
+      "areaProposedSqm": 60,
+      "groundFloorSqm": 30,
+      "firstFloorSqm": 30,
+      "percentOfPlot": 0.95
+     }
+    ],
+    "total": {
+     "areaRequiredSqm": 1906,
+     "areaProposedSqm": 3205.29,
+     "groundFloorSqm": 3145.29,
+     "firstFloorSqm": 60,
+     "percentOfPlot": 100.0
+    }
+   },
+   "Greenbelt": {
+    "areaSqm": 1050.0,
+    "percentOfPlot": 33.38,
+    "trees": 262,
+    "survivalAllowanceTrees": 52
+   },
+   "WaterRequirement": {
+    "unit": "KLD",
+    "rows": [
+     {
+      "group": "domestic",
+      "category": "Domestic",
+      "existing": 2.0,
+      "proposed": 0.0,
+      "total": 2.0,
+      "reuse": 0.0,
+      "fresh": 2.0,
+      "remark": null
+     },
+     {
+      "group": "gardening",
+      "category": "Gardening",
+      "existing": 0.0,
+      "proposed": 1.5,
+      "total": 1.5,
+      "reuse": 1.5,
+      "fresh": 0.0,
+      "remark": "Reuse of STP treated water"
+     },
+     {
+      "group": "industrial",
+      "category": "Process",
+      "existing": 1.5,
+      "proposed": 10.0,
+      "total": 11.5,
+      "reuse": 0.0,
+      "fresh": 11.5,
+      "remark": null
+     },
+     {
+      "group": "industrial",
+      "category": "Washing",
+      "existing": 0.0,
+      "proposed": 1.0,
+      "total": 1.0,
+      "reuse": 1.0,
+      "fresh": 0.0,
+      "remark": "Reuse of single effect evaporator condensate"
+     },
+     {
+      "group": "industrial",
+      "category": "Cooling",
+      "existing": 0.0,
+      "proposed": 2.0,
+      "total": 2.0,
+      "reuse": 0.0,
+      "fresh": 2.0,
+      "remark": null
+     }
+    ],
+    "groupTotals": {
+     "industrial": {
+      "existing": 1.5,
+      "proposed": 13.0,
+      "total": 14.5,
+      "reuse": 1.0,
+      "fresh": 13.5
+     }
+    },
+    "total": {
+     "existing": 3.5,
+     "proposed": 14.5,
+     "total": 18.0,
+     "reuse": 2.5,
+     "fresh": 15.5
+    },
+    "reusePercent": 13.88
+   },
+   "Wastewater": {
+    "unit": "KLD",
+    "rows": [
+     {
+      "group": "domestic",
+      "category": "Domestic",
+      "existing": 1.5,
+      "proposed": 0.0,
+      "total": 1.5,
+      "remark": "Treated in STP and reused for gardening within premises"
+     },
+     {
+      "group": "industrial",
+      "category": "Process",
+      "existing": 0.0,
+      "proposed": 0.0,
+      "total": 0.0,
+      "remark": null
+     },
+     {
+      "group": "industrial",
+      "category": "Washing",
+      "existing": 0.0,
+      "proposed": 1.0,
+      "total": 1.0,
+      "remark": "Treated in in-house ETP and single effect evaporator; evaporator condensate reused for washing"
+     },
+     {
+      "group": "industrial",
+      "category": "Cooling",
+      "existing": 0.0,
+      "proposed": 0.2,
+      "total": 0.2,
+      "remark": null
+     }
+    ],
+    "groupTotals": {
+     "industrial": {
+      "existing": 0.0,
+      "proposed": 1.2,
+      "total": 1.2
+     }
+    },
+    "total": {
+     "existing": 1.5,
+     "proposed": 1.2,
+     "total": 2.7
+    }
+   },
+   "ProductWater": {
+    "rows": [
+     {
+      "product": "Sodium Tri Poly Phosphate",
+      "ecApplicable": false,
+      "capacityMtPerMonth": 150,
+      "waterKld": 0.2,
+      "wastewaterKld": 0.0
+     },
+     {
+      "product": "Fixative",
+      "ecApplicable": false,
+      "capacityMtPerMonth": 50,
+      "waterKld": 1.3,
+      "wastewaterKld": 0.0
+     },
+     {
+      "product": "Ceramic Binder",
+      "ecApplicable": true,
+      "capacityMtPerMonth": 600,
+      "waterKld": 10.0,
+      "wastewaterKld": 0.0
+     }
+    ]
+   },
+   "Treatment": {
+    "streams": [
+     {
+      "name": "Stream 1: Industrial effluent",
+      "sources": "Cooling blow down 0.2 KLD and washing wastewater 1.0 KLD",
+      "quantityKld": 1.2,
+      "train": [
+       "ETP (Primary + Tertiary)",
+       "Single effect evaporator"
+      ],
+      "destination": "1.0 KLD evaporator condensate reused in washing",
+      "residues": "ETP sludge and MEE salt sent to the nearest TSDF site"
+     },
+     {
+      "name": "Stream 2: Domestic sewage",
+      "sources": "Domestic sewage",
+      "quantityKld": 1.5,
+      "train": [
+       "STP"
+      ],
+      "destination": "Treated water reused for green belt development within premises",
+      "residues": "STP sludge used in green belt development within premises"
+     }
+    ],
+    "characteristics": [
+     {
+      "stream": "Domestic sewage (STP)",
+      "stages": [
+       "STP Inlet",
+       "STP Outlet"
+      ],
+      "quantityKld": [
+       1.5,
+       1.5
+      ],
+      "parameters": [
+       {
+        "name": "pH",
+        "unit": "pH unit",
+        "values": [
+         "6.5-7.5",
+         "6.5-8.3"
+        ]
+       },
+       {
+        "name": "BOD",
+        "unit": "mg/L",
+        "values": [
+         "250",
+         "<10"
+        ]
+       },
+       {
+        "name": "COD",
+        "unit": "mg/L",
+        "values": [
+         "500",
+         "<50"
+        ]
+       },
+       {
+        "name": "Suspended Solids",
+        "unit": "mg/L",
+        "values": [
+         "300",
+         "Nil"
+        ]
+       },
+       {
+        "name": "Nitrate Nitrogen",
+        "unit": "mg/L",
+        "values": [
+         "100",
+         "<10"
+        ]
+       },
+       {
+        "name": "Fecal Coliform",
+        "unit": "MPN/100 mL",
+        "values": [
+         "105",
+         "Nil"
+        ]
+       }
+      ]
+     },
+     {
+      "stream": "Industrial effluent (ETP and evaporator)",
+      "stages": [
+       "Cooling",
+       "Washing",
+       "Combined effluent (Primary ETP inlet)",
+       "ETP outlet (to single effect evaporator)",
+       "Evaporator outlet (reused in plant premises)"
+      ],
+      "quantityKld": [
+       0.2,
+       1.0,
+       1.2,
+       1.18,
+       1.0
+      ],
+      "parameters": [
+       {
+        "name": "pH",
+        "unit": "pH unit",
+        "values": [
+         "6-8",
+         "6-7.5",
+         "6.5-7.5",
+         "6.5-7.5",
+         "6.5-7.5"
+        ]
+       },
+       {
+        "name": "TSS",
+        "unit": "mg/L",
+        "values": [
+         "75",
+         "210",
+         "190",
+         "38",
+         "<20"
+        ]
+       },
+       {
+        "name": "TDS",
+        "unit": "mg/L",
+        "values": [
+         "1200",
+         "2100",
+         "1950",
+         "2040",
+         "<100"
+        ]
+       },
+       {
+        "name": "COD",
+        "unit": "mg/L",
+        "values": [
+         "48",
+         "1875",
+         "1571",
+         "1099",
+         "<500"
+        ]
+       },
+       {
+        "name": "BOD",
+        "unit": "mg/L",
+        "values": [
+         "15",
+         "395",
+         "332",
+         "265",
+         "<100"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "FlueGasStacks": {
+    "rows": [
+     {
+      "scenario": "existing",
+      "source": "Thermic Fluid Heater",
+      "capacity": "6.0 lakh kcal/hr",
+      "stackHeightM": 30,
+      "fuel": "Agro waste (briquettes) or coal",
+      "fuelQuantity": "2.0 MT/day",
+      "emissions": "PM: 150 mg/Nm3; SO2: 100 ppm; NOx: 50 ppm",
+      "apcm": "Multi-cyclone separator"
+     },
+     {
+      "scenario": "existing",
+      "source": "D.G. Set",
+      "capacity": "85 kVA",
+      "stackHeightM": 11,
+      "fuel": "HSD",
+      "fuelQuantity": "60 L/hr",
+      "emissions": null,
+      "apcm": null
+     },
+     {
+      "scenario": "existing",
+      "source": "D.G. Set",
+      "capacity": "85 kVA",
+      "stackHeightM": 11,
+      "fuel": "HSD",
+      "fuelQuantity": "60 L/hr",
+      "emissions": null,
+      "apcm": "Adequate stack height"
+     },
+     {
+      "scenario": "after_expansion",
+      "source": "Thermic Fluid Heater (existing)",
+      "capacity": "6.0 lakh kcal/hr",
+      "stackHeightM": 30,
+      "fuel": "Agro waste (briquettes) or coal",
+      "fuelQuantity": "3.5 MT/day or 2.5 MT/day",
+      "emissions": "PM: 150 mg/Nm3; SO2: 100 ppm; NOx: 50 ppm",
+      "apcm": "Multi-cyclone separator"
+     },
+     {
+      "scenario": "after_expansion",
+      "source": "D.G. Set (existing)",
+      "capacity": "85 kVA",
+      "stackHeightM": 11,
+      "fuel": "HSD",
+      "fuelQuantity": "60 L/hr",
+      "emissions": null,
+      "apcm": "Adequate stack height"
+     }
+    ],
+    "note": "After expansion the working hours of the thermic fluid heater will be increased from 10 hrs to 16 hrs."
+   },
+   "FuelConsumption": {
+    "totalTpd": 3.5,
+    "fuels": [
+     {
+      "name": "Bio coal / coal",
+      "tpd": 3.5
+     }
+    ]
+   },
+   "HazardousWaste": {
+    "unit": "MT/annum",
+    "rows": [
+     {
+      "name": "Used / Spent Oil",
+      "source": "Equipment & machinery",
+      "hwCategory": "SCH-I/5.1",
+      "existing": 0.0,
+      "proposed": 0.1,
+      "total": 0.1,
+      "management": "Collection, storage and disposal by reuse in plant & machinery as lubricant, or sale to authorised re-refiners / recyclers"
+     },
+     {
+      "name": "Empty barrels / containers / liners contaminated with hazardous chemicals / wastes",
+      "source": "Storage & handling of raw materials",
+      "hwCategory": "SCH-I/ 33.1",
+      "existing": 1.0,
+      "proposed": 9.0,
+      "total": 10.0,
+      "management": "Collection, storage and reuse within premises, or transportation & sale to authorised vendors / recyclers through GPS-mounted vehicles"
+     },
+     {
+      "name": "ETP Sludge",
+      "source": "ETP",
+      "hwCategory": "SCH.I/35.3",
+      "existing": 0.0,
+      "proposed": 7.0,
+      "total": 7.0,
+      "management": "Collection, storage, transportation and disposal at TSDF site"
+     },
+     {
+      "name": "Salts (Solid)",
+      "source": "Evaporator",
+      "hwCategory": "SCH.I/35.3",
+      "existing": 0.0,
+      "proposed": 1.2,
+      "total": 1.2,
+      "management": "Collection, storage, transportation and disposal at TSDF site"
+     },
+     {
+      "name": "Process Waste",
+      "source": "Manufacturing process batch failure",
+      "hwCategory": "SCH.I /23.1",
+      "existing": 0.0,
+      "proposed": 1.0,
+      "total": 1.0,
+      "management": "Collection, storage, transportation and sending to pre/co-processing units (cement industries), or disposal at the nearest CHWIF site through GPS-mounted vehicles"
+     }
+    ]
+   },
+   "NonHazardousWaste": {
+    "unit": "MT/year",
+    "rows": [
+     {
+      "name": "Fly Ash",
+      "source": "Thermic fluid heater",
+      "existing": 100.0,
+      "proposed": 25.0,
+      "total": 125.0,
+      "management": "Collection, storage, transportation and disposal by sale to fly ash brick manufacturers or farmers for soil conditioning, or for back-filling of low-lying areas"
+     },
+     {
+      "name": "STP Sludge",
+      "source": "STP",
+      "existing": 0.0,
+      "proposed": 0.4,
+      "total": 0.4,
+      "management": "Collection, storage and reuse as manure in green belt development within the premises"
+     },
+     {
+      "name": "C & D Waste",
+      "source": "Construction & demolition of building",
+      "existing": 0.0,
+      "proposed": 33.0,
+      "total": 33.0,
+      "management": "Reused for levelling within premises or sold to an authorised vendor"
+     },
+     {
+      "name": "Municipal Solid Waste (Dry)",
+      "source": "Canteen, stationery, pantry etc.",
+      "existing": 0.16,
+      "proposed": 0.33,
+      "total": 0.49,
+      "management": "Segregation, collection, storage and sending to authorised recyclers"
+     },
+     {
+      "name": "Municipal Solid Waste (Wet)",
+      "source": "Canteen, stationery, pantry etc.",
+      "existing": 0.11,
+      "proposed": 0.22,
+      "total": 0.33,
+      "management": "Segregation, collection, storage and treatment in in-house organic waste converter (OWC); used as bio-manure in the gardening area within premises"
+     }
+    ]
+   },
+   "FireLoad": {
+    "floors": "G + 1",
+    "totalFloorAreaSqm": 1103,
+    "combustibleOpenAreaSqm": 1103,
+    "areaAbove15mSqm": 0,
+    "woodenAreaSqm": 10,
+    "combinedAreaSqm": 2226,
+    "flowLpm": 111.3,
+    "waterRequirementL": 11130,
+    "storageCapacityCum": 200,
+    "storageType": "Underground storage tank",
+    "hydrantMainDiaCm": 15,
+    "hydrantArrangement": "Fire water hydrant line for supply of water on the ground floor; fire water storage tank and sprinkler system",
+    "pumps": [
+     {
+      "type": "Electrical fire water pump and diesel fire water pump",
+      "capacityLpm": 4550,
+      "count": null
+     },
+     {
+      "type": "Jockey pump",
+      "capacityLpm": 1080,
+      "count": 1
+     }
+    ],
+    "trailerPumpArrangement": "(A+B+C+D)/20 = 111.30 L/min, which is less than 550 LPM; hence a trailer-driven pump is not applicable",
+    "bucketsRequired": 65,
+    "waterExtinguishersRequired": 11,
+    "bucketsDispensed": true,
+    "co2Required": 15,
+    "totalExtinguishersRequired": 37,
+    "installed": [
+     {
+      "type": "ABC",
+      "size": "4 kg",
+      "count": 6
+     },
+     {
+      "type": "ABC",
+      "size": "6 kg",
+      "count": 6
+     },
+     {
+      "type": "ABC",
+      "size": "9 kg",
+      "count": 7
+     },
+     {
+      "type": "CO2",
+      "size": "6.5 kg",
+      "count": 9
+     },
+     {
+      "type": "CO2",
+      "size": "9 kg",
+      "count": 10
+     },
+     {
+      "type": "Foam",
+      "size": "9 L",
+      "count": 3
+     },
+     {
+      "type": "Foam trolley",
+      "size": "50 L",
+      "count": 2
+     }
+    ],
+    "proximitySuits": 2,
+    "additionalExtinguishers": "Will be provided wherever required",
+    "fireExits": "Emergency fire exit and ladder will be provided to each floor",
+    "alarm": "Fire warning arrangement (hooter / electric bell) will be provided",
+    "sprinklerAreas": "Boiler & ETP area; fuel & fly ash area"
+   },
+   "ChemicalStorage": {
+    "rows": [
+     {
+      "group": "hazardous",
+      "material": "Acrylamide (50% Solution)",
+      "maxQuantity": 20,
+      "unit": "KL",
+      "condition": "ATP",
+      "moc": "HDPE drum",
+      "mode": "Drum",
+      "containers": "200 L x 100 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "hazardous",
+      "material": "Caustic Lye (50% Solution)",
+      "maxQuantity": 20,
+      "unit": "KL",
+      "condition": "ATP",
+      "moc": "HDPE drum",
+      "mode": "Drum",
+      "containers": "200 L x 100 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "hazardous",
+      "material": "Caustic Soda",
+      "maxQuantity": 4.2,
+      "unit": "MT",
+      "condition": "ATP",
+      "moc": "HDPE bag",
+      "mode": "Bag",
+      "containers": "50 kg x 84 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "other",
+      "material": "Inorganic Polymer",
+      "maxQuantity": 63.0,
+      "unit": "MT",
+      "condition": "ATP",
+      "moc": "HDPE bag",
+      "mode": "Bag",
+      "containers": "50 kg x 1260 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "other",
+      "material": "Polyvinyl Alcohol",
+      "maxQuantity": 5.2,
+      "unit": "MT",
+      "condition": "ATP",
+      "moc": "HDPE bag",
+      "mode": "Bag",
+      "containers": "50 kg x 104 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "other",
+      "material": "Acrylic Acid",
+      "maxQuantity": 33.6,
+      "unit": "KL",
+      "condition": "ATP",
+      "moc": "HDPE drum",
+      "mode": "Drum",
+      "containers": "200 L x 168 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "other",
+      "material": "Ammonium Persulfate",
+      "maxQuantity": 2.25,
+      "unit": "MT",
+      "condition": "ATP",
+      "moc": "HDPE bag",
+      "mode": "Bag",
+      "containers": "50 kg x 45 nos.",
+      "nfpa": null
+     },
+     {
+      "group": "other",
+      "material": "Sodium Metabisulfite",
+      "maxQuantity": 4.2,
+      "unit": "MT",
+      "condition": "ATP",
+      "moc": "HDPE bag",
+      "mode": "Bag",
+      "containers": "50 kg x 84 nos.",
+      "nfpa": null
+     }
+    ]
+   },
+   "EmpCost": {
+    "unit": "₹ lakh",
+    "rows": [
+     {
+      "head": "Waste Water",
+      "detail": "ETP 2 KLD",
+      "capital": 4.0,
+      "recurring": 1.5
+     },
+     {
+      "head": "Waste Water",
+      "detail": "Evaporator 2 KLD",
+      "capital": 6.0,
+      "recurring": 4.5
+     },
+     {
+      "head": "Waste Water",
+      "detail": "STP 2 KLD",
+      "capital": 2.0,
+      "recurring": 0.5
+     },
+     {
+      "head": "Air",
+      "detail": "Stack: 2 nos.",
+      "capital": 4.0,
+      "recurring": 0.4
+     },
+     {
+      "head": "Air",
+      "detail": "Multi-cyclone separator: 1 no.",
+      "capital": 2.0,
+      "recurring": 0.5
+     },
+     {
+      "head": "Hazardous Waste Management",
+      "detail": "Membership charges, disposal & transportation charges",
+      "capital": 0.2,
+      "recurring": 0.5
+     },
+     {
+      "head": "Fire & Safety",
+      "detail": "Fire hydrant, fire safety & sprinkler system and fire water storage tank",
+      "capital": 40.0,
+      "recurring": 8.0
+     },
+     {
+      "head": "Fire & Safety",
+      "detail": "PPEs & proximity suit, PLC-SCADA",
+      "capital": 25.0,
+      "recurring": 2.0
+     },
+     {
+      "head": "Fire & Safety",
+      "detail": "Flame-proof electrical fittings, fire extinguishers & foam type trolley",
+      "capital": 8.0,
+      "recurring": 2.0
+     },
+     {
+      "head": "Greenbelt Development",
+      "detail": "262 trees + 52 considering 20% survival rate (green belt area 1050.0 sq. m)",
+      "capital": 5.0,
+      "recurring": 1.5
+     },
+     {
+      "head": "Occupational Health",
+      "detail": "Occupational Health Centre",
+      "capital": 5.0,
+      "recurring": 5.0
+     },
+     {
+      "head": "Occupational Health",
+      "detail": "OHS training of staff & miscellaneous",
+      "capital": 2.0,
+      "recurring": 1.0
+     },
+     {
+      "head": "Noise Control",
+      "detail": "Acoustic enclosure",
+      "capital": 2.0,
+      "recurring": 0.5
+     },
+     {
+      "head": "Noise Control",
+      "detail": "Silencer",
+      "capital": 1.0,
+      "recurring": 0.4
+     },
+     {
+      "head": "Noise Control",
+      "detail": "Vibration pads",
+      "capital": 1.0,
+      "recurring": 0.3
+     },
+     {
+      "head": "Noise Control",
+      "detail": "Noise PPEs",
+      "capital": 1.2,
+      "recurring": 0.4
+     },
+     {
+      "head": "VOC Control & LDAR",
+      "detail": "Double-seal mechanical pump; closed handling system for fugitive dust control",
+      "capital": 10.0,
+      "recurring": 2.0
+     },
+     {
+      "head": "Environment Monitoring Programme",
+      "detail": "Monitoring (internal + external lab), risk analysis, safety audit, maintenance",
+      "capital": 5.0,
+      "recurring": 2.0
+     },
+     {
+      "head": "CER Activity",
+      "detail": "2.0 % of total project cost",
+      "capital": 11.0,
+      "recurring": 1.5
+     }
+    ],
+    "total": {
+     "capital": 134.4,
+     "recurring": 34.5
+    }
+   },
+   "Cer": {
+    "percent": 2.0,
+    "amountCr": 0.11,
+    "basis": "2.0 % of total project cost (brownfield project)"
+   }
+  }
+ }
+}

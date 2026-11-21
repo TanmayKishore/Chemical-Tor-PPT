@@ -1,0 +1,182 @@
+{
+ "form_type": "formCAF",
+ "form_data": {
+  "details_of_project": {
+   "index": 1,
+   "label": "Details of Project",
+   "fields": [
+    {
+     "variable": "projectName",
+     "label": "Name of the project",
+     "value": "Proposed expansion by addition of Synthetic Organic Chemicals (Ceramic Binder) in existing Inorganic Chemicals manufacturing unit"
+    },
+    {
+     "variable": "projectProposal",
+     "label": "Type of proposal",
+     "value": "Expansion"
+    }
+   ]
+  },
+  "company_details": {
+   "index": 2,
+   "label": "Company Details",
+   "fields": [
+    {
+     "variable": "legalStatus",
+     "label": "Legal status",
+     "value": "Partnership Firm"
+    },
+    {
+     "variable": "companyName",
+     "label": "Name of the company",
+     "value": "Vrundavan Polymer Industries"
+    },
+    {
+     "variable": "registeredAddress",
+     "label": "Registered address",
+     "value": "Plot No. 44 to 48, Revenue Survey No. 182 p2, 187 1p1 and p2, 188 1p3, Jetpar Road, Pipali, Morbi, Gujarat - 363642"
+    }
+   ]
+  },
+  "applicant_details": {
+   "index": 3,
+   "label": "Applicant Details",
+   "fields": [
+    {
+     "variable": "applicantName",
+     "label": "Name of the applicant",
+     "value": "Mr. Rohit Jerambhai Sanandia"
+    },
+    {
+     "variable": "applicantDesignation",
+     "label": "Designation",
+     "value": "Partner"
+    }
+   ]
+  },
+  "project_location": {
+   "index": 4,
+   "label": "Project Location",
+   "fields": [
+    {
+     "variable": "plotSurveyKhasraNo",
+     "label": "Plot / Survey / Khasra No.",
+     "value": "Plot No. 44 to 48; Revenue Survey No. 182 p2, 187 1p1 and p2, 188 1p3"
+    },
+    {
+     "variable": "village",
+     "label": "Village",
+     "value": "Pipali"
+    },
+    {
+     "variable": "subDistrict",
+     "label": "Sub-district",
+     "value": "Morbi"
+    },
+    {
+     "variable": "district",
+     "label": "District",
+     "value": "Morbi"
+    },
+    {
+     "variable": "state",
+     "label": "State",
+     "value": "Gujarat"
+    },
+    {
+     "variable": "pincode",
+     "label": "Pincode",
+     "value": "363642"
+    },
+    {
+     "variable": "boundedLatNorthFrom",
+     "label": "Latitude (N) from",
+     "value": null
+    },
+    {
+     "variable": "boundedLatNorthTo",
+     "label": "Latitude (N) to",
+     "value": null
+    },
+    {
+     "variable": "boundedLngEastFrom",
+     "label": "Longitude (E) from",
+     "value": null
+    },
+    {
+     "variable": "boundedLngEastTo",
+     "label": "Longitude (E) to",
+     "value": null
+    }
+   ]
+  },
+  "project_cost": {
+   "index": 7,
+   "label": "Project / Activity Cost",
+   "fields": [
+    {
+     "variable": "costExistingProject",
+     "label": "Cost of the Existing Project at current price level (in Lakhs) (A)",
+     "value": 67.6,
+     "type": "number"
+    },
+    {
+     "variable": "costProposedExpansion",
+     "label": "Cost of the proposed expansion / modernization of Project at current price level (in Lakhs) (B)",
+     "value": 460.0,
+     "type": "number"
+    },
+    {
+     "variable": "totalCost",
+     "label": "Total Cost of the project / Activity (in lakhs) (A+B)",
+     "value": 527.6,
+     "type": "number"
+    }
+   ]
+  },
+  "employment": {
+   "index": 8,
+   "label": "Employment",
+   "fields": [
+    {
+     "variable": "constructionPermanent",
+     "label": "Employment during construction phase",
+     "value": 20
+    },
+    {
+     "variable": "operationalPermanentTotal",
+     "label": "Employment during operation phase (total)",
+     "value": 15
+    }
+   ]
+  },
+  "litigation": {
+   "index": 13,
+   "label": "Litigation",
+   "fields": [
+    {
+     "variable": "litigationPending",
+     "label": "Whether any litigation is pending against the project",
+     "value": false
+    },
+    {
+     "variable": "caseStatus",
+     "label": "Case status",
+     "value": null
+    }
+   ]
+  },
+  "violations": {
+   "index": 14,
+   "label": "Violations",
+   "fields": [
+    {
+     "variable": "violationInvolved",
+     "label": "Whether the project involves violation",
+     "value": false
+    }
+   ]
+  }
+ },
+ "form_version": 1
+}
